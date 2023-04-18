@@ -8,6 +8,9 @@ public class TictactoeApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(TictactoeApplication.class, args);
+
+        System.out.println("TicTacToe started");
+
     }
 
 }
